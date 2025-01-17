@@ -8,6 +8,7 @@ nav:
   - Sessions:
     - Overview: sessions/overview.md
     - How to setup the rendering of the website: sessions/how_to_setup_website_rendering/README.md
+    - How to fix the spelling errors: sessions/how_to_fix_spelling_errors/README.md
 
 theme:
   name: material
