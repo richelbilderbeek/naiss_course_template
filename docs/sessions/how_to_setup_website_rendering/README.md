@@ -1,3 +1,14 @@
+---
+tags:
+  - session
+  - setup
+  - set up
+  - rendering
+  - MkDocs
+  - gh-pages
+  - deploy
+---
+
 # How to setup the rendering of the website
 
 This repository automatically deploys

@@ -1,3 +1,14 @@
+---
+tags:
+  - session
+  - setup
+  - action
+  - CI
+  - spelling
+  - spellcheck
+  - fix
+---
+
 # How to fix spelling errors
 
 This repository checks multiple things automatically after each change.
