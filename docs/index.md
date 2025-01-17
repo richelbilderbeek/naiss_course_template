@@ -4,6 +4,10 @@
 
 This course introduces a NAISS course template.
 
+???- question "Want a video of a guided tour?"
+
+    See [this video on YouTube](https://youtu.be/rDnDASXmkdc)
+
 ???- question "Are there courses that use this template?"
 
     Yes.
