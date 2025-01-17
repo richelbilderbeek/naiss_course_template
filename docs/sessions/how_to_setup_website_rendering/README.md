@@ -64,7 +64,7 @@ To set this up, we need to click 10x and type 8 characters.
 
     ![The empty edit line above the branch](repo_branch_edit_empty.png)
 
-- Type the word `gh-pages` 
+- Type the word `gh-pages`
 
 ???- question "How does that look like?"
 
