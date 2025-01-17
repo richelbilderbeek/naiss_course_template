@@ -71,7 +71,7 @@ will also be shown in the log
 
     Here are multiple spelling errors that are not spelling errors,
     especially `UPPMAX` (the Uppsala HPC center) is a clear example
-    of an incorrectly labeled spelling error. 
+    of an incorrectly labeled spelling error.
 
     ![A spelling errors that is a spelling error](check_spelling_results_bottom.png)
 

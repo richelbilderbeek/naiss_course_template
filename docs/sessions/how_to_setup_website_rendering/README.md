@@ -53,7 +53,7 @@ To set this up, we need to click 10x and type 8 characters.
 
     Here is the combobox of the actively displayed branch:
 
-    ![](repo_click_branch.png)
+    ![The combobox of the actively displayed branch](repo_click_branch.png)
 
 - Click on the empty edit line above the branch(es)
   to edit it
