@@ -22,3 +22,5 @@ txt
 wordlist
 www
 yml
+MkDocs
+gh
