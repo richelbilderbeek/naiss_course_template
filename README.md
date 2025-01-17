@@ -1,4 +1,4 @@
-# Intro to Python
+# NAISS course template
 
 <!-- markdownlint-disable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
 
@@ -10,7 +10,6 @@
 <!-- markdownlint-enable MD013 -->
 
 - [Go to the nicely rendered site](https://uppmax.github.io/naiss_course_template/)
-- [Instructions on how to locally deploy this website](https://uppmax.github.io/naiss_course_template/deploy_locally/)
 
 ## Files used by continuous integration scripts
 
